@@ -2,4 +2,8 @@ Hello
 How are you?
 Whre are you?
 
+<<<<<<< HEAD
 hello walking...?
+=======
+hello Running...?
+>>>>>>> 11195e2fd911c26f48865c8fd70069cce377612c
