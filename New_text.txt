@@ -4,4 +4,9 @@ Whre are you?
 
 hello walking...?
 hello Running...?
+<<<<<<< HEAD
 hello ma'am
+=======
+>>>>>>> 11195e2fd911c26f48865c8fd70069cce377612c
+hello myan
+>>>>>>> a3781bb10a160b33a8c9a20eaaf6446f824ce648
